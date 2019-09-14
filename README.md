@@ -10,4 +10,4 @@
 
 <p>DemoFlex4</p>
 <img src="https://i.wingur.com/LjWe.png" alt="LjWe.png" border="0">
-<img src="https://i.wingur.com/LvAP.png" alt="LvAP.png" border="0">Thu nhỏ<dưới 600px>
+<img src="https://i.wingur.com/LvAP.png" alt="LvAP.png" border="0">Thu nhỏ(dưới 600px)
