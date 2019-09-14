@@ -10,5 +10,5 @@
 
 <p>DemoFlex4</p>
 <img src="https://i.wingur.com/LjWe.png" alt="LjWe.png" border="0">
-<p>Thu nhỏ(dưới 600px)</p>
+<p>Thu nhỏ(dưới 600px) thì hiển thị màn hình bên dưới</p>
 <img src="https://i.wingur.com/LvAP.png" alt="LvAP.png" border="0">
